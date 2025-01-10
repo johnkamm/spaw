@@ -18,6 +18,9 @@
     <loc>http://localhost:1313/meghna/examplesite/blog/croptober-blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/blog/prop-blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/meghna/examplesite/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
@@ -30,9 +33,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/meghna/examplesite/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/blog/prop-blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/meghna/examplesite/blog/outdoor-blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
