@@ -1,0 +1,79 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Site Selection
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Site Planning
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Design and Buildout
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Local Government Relations
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Investor Relations   
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Budget and Projections
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Sales and Marketing
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here      
+      
+    # service item loop
+    - name : Team Hiring and Training
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Operations
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Irrigation Materials and Design
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Mechanization
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Strains, seeds, clones, starts
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Farming
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Harvesting
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here
+      
+    # service item loop
+    - name : Inventory and Fulfillment
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Add content blurb here

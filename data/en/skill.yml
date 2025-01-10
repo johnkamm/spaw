@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Outdoor Cultivation
+  subtitle : "Invest Tight : Yield High"
+  content : At Southpaw Strategies we understand the importance of keeping costs down. Our unique strategy allows us to produce high-quality products at a fraction of the cost of the competition.
+  image : images/about/pie.webp
+  skill_item :
+    # skill item loop
+    - name :  Payroll -- 37.5%
+      percent : 37.5%
+      
+    # skill item loop
+    - name :  Plant Inputs -- 21.3%
+      percent : 21.3%
+      
+    # skill item loop
+    - name :  Licensing, Tax, Insurance -- 16.3%
+      percent : 16.3%
+      
+    - name :  Utilities -- 7.5%
+      percent : 7.5%
+      
+    # skill item loop
+    - name :  Irrigation, Maintenance, Upkeep -- 17.5%
+      percent : 17.5%

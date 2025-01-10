@@ -1,0 +1,50 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Kyle Holland
+      image_webp : images/team/Kyle.webp
+      image : images/team/Kyle.jpg
+      designation : <ul>'The Wizard of O-Zs'</ul>
+      content : With over 20 years in the Cannabis Industry, Kyle Holland has earned his nickname of <h3><b><br> "The Wizard" of O-Zs. </b></br></h3>
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    
+        
+    # team member loop
+    - name : John Kamm
+      image_webp : images/team/John.webp
+      image : images/team/John.jpg
+      designation : Chief Loafing Officer
+      content : John waters plants.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+        
+    # team member loop
+    - name : Kent Thomas
+      image_webp : images/team/Kent.webp
+      image : images/team/Kent.jpg
+      designation : Sales Boy
+      content : Kent sells dreams...and weed.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    
+        

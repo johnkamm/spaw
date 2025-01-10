@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/field1.jpg"
+  bg_image_webp : "images/backgrounds/field1.webp"
+  title : "Ready to join the Green Revolution?"
+  content : ""
+  button:
+    enable : true
+    label : "Start a project with us today"
+    link : "#contact"

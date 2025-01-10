@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Investigative
+    content : We test new strategies and technologies to ensure we are on the cutting edge of cannabis cultivation.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : From planning to staffing to operations, we are committed to providing our clients with exceptional teams and paths to success!
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : Big Brain Squad
