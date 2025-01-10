@@ -220,7 +220,7 @@ contentDir = "content/english"
 [Languages.en.params]
 weight = 1
 home = "Home"
-copyright = "Page Created by: John Kamm"
+copyright = "Page Created using Hugo"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -231,5 +231,5 @@ weight = 2
 
 [Languages.fr.params]
 home = "Accueil"
-copyright = "Page Created by: John Kamm"
+copyright = "Page Created using Hugo"
 
