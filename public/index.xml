@@ -5,42 +5,42 @@
     <link>http://localhost:1313/meghna/examplesite/</link>
     <description>Recent content on Southpaw Strategies</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/meghna/examplesite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Croptober Challenges</title>
-      <link>http://localhost:1313/meghna/examplesite/english/blog/croptober-blog/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/croptober-blog/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/english/blog/croptober-blog/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/croptober-blog/</guid>
       <description>&lt;p&gt;&lt;font size= &#34;5&#34;&gt;&lt;b&gt;Growing the crop seems easy when compared to a successful harvest process.  Here’s where the rubber meets the road&amp;hellip;. &lt;/b&gt;&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;Sequence: which strains are harvested in what order?&#xA;&lt;br&gt;&lt;br&gt;Tops: what plants get topped, if they do, and when, and in what order?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Propagation Station</title>
-      <link>http://localhost:1313/meghna/examplesite/english/blog/prop-blog/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/prop-blog/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/english/blog/prop-blog/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/prop-blog/</guid>
       <description>&lt;p&gt;&lt;font size= &#34;5&#34;&gt;&lt;b&gt;THE CROP STARTS WITH PROP&amp;hellip;agation&lt;/b&gt;&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;Once strain selection and field layout are complete, it&amp;rsquo;s time to grow some plants!&#xA;&lt;br&gt;&lt;br&gt;There are two widely used methods of propagating cannabis: growing from seed and growing from clone&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why outdoor?</title>
-      <link>http://localhost:1313/meghna/examplesite/english/blog/outdoor-blog/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/outdoor-blog/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/english/blog/outdoor-blog/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/outdoor-blog/</guid>
       <description>&lt;p&gt;Pros / Cons of outdoor cultivation versus indoor.&lt;/p&gt;&#xA;&lt;p&gt;Outdoor: lower cost&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/meghna/examplesite/english/team/test/</link>
+      <link>http://localhost:1313/meghna/examplesite/team/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/english/team/test/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/team/test/</guid>
       <description>&lt;p&gt;This is a test&lt;/p&gt;</description>
     </item>
     <item>
       <title>John Kamm</title>
-      <link>http://localhost:1313/meghna/examplesite/english/author/john-doe/</link>
+      <link>http://localhost:1313/meghna/examplesite/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/english/author/john-doe/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/author/john-doe/</guid>
       <description>&lt;p&gt;John built the website.&lt;/p&gt;</description>
     </item>
   </channel>
