@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/meghna/examplesite/en/sitemap.xml</loc>
-    
-      <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/meghna/examplesite/fr/sitemap.xml</loc>
-    
-      <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/meghna/examplesite/english/blog/croptober-blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/english/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/english/blog/prop-blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/english/blog/outdoor-blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/english/team/test/</loc>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/english/author/john-doe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/tags/</loc>
+  </url>
+</urlset>

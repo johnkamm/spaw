@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/field.webp"
+  bg_image : "images/backgrounds/field.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title :  "Southpaw Strategies LLC"
-  content : "Planning, Building, & Optimizing businesses across the cannabis industry. "
+  content : "Invest Low | Yield High"
   button:
     enable : true
-    label : "Explore Our Offerings"
-    link : "#services"
+    label : "Schedule a meeting today!"
+    link : "https://calendly.com/johnkamm45/30min?hide_event_type_details=1&hide_gdpr_banner=1"
