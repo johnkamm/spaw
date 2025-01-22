@@ -1,8 +1,8 @@
 ---
 title: "Croptober Challenges"
 date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: images/blog/van.webp
+image: images/blog/van.jpg
 author: Kyle
 description : "Harvesting Post"
 ---
