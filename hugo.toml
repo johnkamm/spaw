@@ -95,13 +95,18 @@ url = "/team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "articles"
 url = "/blog"
 weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
+weight = 7
+
+[[Languages.en.menu.main]]
+name = "home"
+url = ""
 weight = 7
 
 ############################# Default Parameters ##########################
