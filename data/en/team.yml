@@ -1,14 +1,14 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Meet the Team
   team_member :
     # team member loop
     - name : Kyle Holland
-      image_webp : images/team/Kyle.webp
-      image : images/team/Kyle.jpg
-      designation : <ul>'The Wizard of O-Zs'</ul>
-      content : With over 20 years in the Cannabis Industry, Kyle Holland has earned his nickname of <h3><b><br> "The Wizard" of O-Zs. </b></br></h3>
+      image_webp : images/team/Kyle Holland headshot 23.webp
+      image : images/team/Kyle Holland headshot 23.jpg
+      designation : <ul>'Operations'</ul>
+      content : Kyle Holland brings 18 years of experience that overlaps in the areas  of construction management,  facilities management and cannabis  cultivation. In 2008 he commenced  his role as cultivation lead at a  Colorado cultivator/dispenser that  would become that state’s 2nd  largest as of 2017; there he mastered  the intricacies of producing cannabis  medicine on an industrial scale. In  2015-2017 Kyle directed operations at  the Elk Grove Village cultivation  headquarters for Illinois Grown  Medicine, in a state regarded as the  most heavily regulated of ‘legal’  states. Kyle holds a BA from Ag  powerhouse University of Nebraska-  Lincoln.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -35,10 +35,11 @@ team:
         
     # team member loop
     - name : Kent Thomas
-      image_webp : images/team/Kent.webp
-      image : images/team/Kent.jpg
-      designation : Sales Boy
-      content : Kent sells dreams...and weed.
+      image_webp : images/team/KT image.webp
+      image : images/team/KT image.jpg
+      designation : Managing Partner
+      content : A progressive voice for normalizing advertising in regulated industries, Kent brings decades of experience in organizational design and leadership.  Previously, Kent was a driving force behind successful marketing services agencies in the sports and entertainment industries. Helping brands create emotional engagement with people remains a passion; as are auto racing, college basketball, and all live music
+
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"

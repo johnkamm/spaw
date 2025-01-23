@@ -91,7 +91,7 @@ link = "plugins/google-map/map.js"
 
 [[Languages.en.menu.main]]
 name = "team"
-url = "/team"
+url = "/about"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -113,8 +113,8 @@ weight = 7
 [params]
 logo = "images/goldglove.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Efficient Cannabis Solutions"
+author = "Southpaw Strats"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
