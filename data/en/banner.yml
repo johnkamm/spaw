@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/field.webp"
   bg_image : "images/backgrounds/field.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title :  "Southpaw Strategies LLC"
+  title :  "Southpaw Strategies"
   content : "Invest Low | Yield High"
   button:
     enable : true
