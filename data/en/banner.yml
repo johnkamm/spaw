@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/field2.webp"
-  bg_image : "images/backgrounds/field2.jpg"
+  bg_image_webp : "images/backgrounds/field4.webp"
+  bg_image : "images/backgrounds/field4.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title :  "Southpaw Strategies"
   content : "Invest Low | Yield High"
